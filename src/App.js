@@ -47,7 +47,7 @@ export default function App() {
       <br />
 
       <Color hex={hexvalue} />
-        <p>Made with &hearts; Noufal<p>
+        <p>Made with &hearts; Noufal</p>
     </div>
     
   );
